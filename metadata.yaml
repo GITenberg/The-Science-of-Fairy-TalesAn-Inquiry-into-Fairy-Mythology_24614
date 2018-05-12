@@ -1,0 +1,30 @@
+_repo: The-Science-of-Fairy-TalesAn-Inquiry-into-Fairy-Mythology_24614
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hartland, Edwin Sidney
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '26617'
+    url: http://www.gutenberg.org/2009/agents/26617
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2008-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore'
+title: 'The Science of Fairy Tales
+
+  An Inquiry into Fairy  Mythology'
+url: http://www.gutenberg.org/ebooks/24614
